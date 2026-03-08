@@ -13,7 +13,7 @@ This project introduces a closed-loop Visual-Cognitive-Motor architecture that:
 
 ## 📂 Repository Structure
 * `GM.py`: The core biomimetic visual-cognitive agent implementation.
-* `paper_experiment_data_v2.csv`: The end-to-end execution telemetry data (N=228 interactions) used for the K-S test and latency evaluations in the paper.
+* `paper_experiment_data.csv`: The end-to-end execution telemetry data (N=228 interactions) used for the K-S test and latency evaluations in the paper.
 
 ## 🚀 Quick Start
 ### Prerequisites
